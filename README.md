@@ -17,7 +17,6 @@
 - **Sistema Operacional**: Linux (testado no Kali Linux)
 - **Dependências**:
   - [HashCat](https://hashcat.net/hashcat/)
-  - [John the Ripper](https://www.openwall.com/john/)
   - [Wordlist](https://github.com/danielmiessler/SecLists/tree/master/Passwords/)
 
 ### Instalação
